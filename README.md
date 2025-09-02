@@ -7,9 +7,10 @@
 Soy **profesor-investigador de tiempo completo** en la Universidad Autónoma de Baja California (UABC) – Valle de las Palmas, donde participo en los programas de **Electrónica, Mecatrónica, Bioingeniería y Aeroespacial**.  
 Actualmente imparto las materias de:  
 - Programación y Métodos Numéricos  
-- Mediciones Eléctricas y Electrónicas  
+- Mediciones Eléctricas y Electrónicas
+- Análisis de Circuitos Eléctricos
 - Inteligencia Artificial y Sociedad  
-- Automatización (PLC)  
+- 
 
 📌 Pertenezco al **Sistema Nacional de Investigadores (SNI, Nivel I)** y cuento con el **Reconocimiento al Perfil Deseable**.  
 
@@ -17,21 +18,21 @@ Mi formación combina la **ingeniería electrónica, los sistemas digitales y la
 - Inteligencia Artificial aplicada  
 - Aprendizaje automático y redes neuronales  
 - Procesamiento y análisis de señales (EEG)  
-- Robótica y sistemas de visión  
+- Automatización y sistemas de visión  
 - Innovación educativa con tecnologías digitales  
 
 ---
 
 ## 🚀 Líneas de Investigación y Proyectos  
-- **Inteligencia Artificial aplicada a la salud**: diagnóstico de hipertensión mediante machine learning.  
-- **Interacción cerebro-computadora (BCI)**: identificación de patrones de ansiedad, preocupación y estrés con señales EEG.  
-- **Robótica**: sistemas de visión y control inteligente con brazos robóticos colaborativos (myCobot).  
+- **Inteligencia Artificial aplicada a la salud**: diagnóstico de hipertensión mediante técnicas de machine learning.  
+- **Interacción cerebro-computadora (BCI)**: clasificación de señales EEG, relacionadas a los movimientos motoros e imaginarios.  
+- **Prototipos electrónicos**: enfocados en la rehabilitación física y ocupacional, en personas que han sufrido algún tipo de evento desafortunado.  
 - **Educación y tecnología**: integración de IA en la enseñanza de ingeniería, métodos numéricos y automatización.  
 
 ---
 
 ## 🌱 Filosofía  
-Creo en la educación como motor de transformación social y en la tecnología como herramienta para construir un futuro más **inclusivo, interdisciplinario e inteligente**. Mi meta es inspirar a mis estudiantes a convertirse en líderes técnicos capaces de innovar con impacto.  
+Dar lo mejor en el salón de clases, para inspirar a mis estudiantes a convertirse y ser buenas personas capaces de transformar su entorno.  
 
 ---
 
@@ -43,4 +44,4 @@ Creo en la educación como motor de transformación social y en la tecnología c
 
 ---
 
-> “La inteligencia artificial, la robótica y la investigación no son solo tecnologías: son caminos para mejorar la vida de las personas.”  
+> “Tarde que temprano la disciplina vencerá a la inteligencia.”  
