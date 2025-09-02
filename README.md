@@ -10,7 +10,7 @@ Actualmente imparto las materias de:
 - Mediciones Eléctricas y Electrónicas
 - Análisis de Circuitos Eléctricos
 - Inteligencia Artificial y Sociedad  
-- 
+- Protótipos
 
 📌 Pertenezco al **Sistema Nacional de Investigadores (SNI, Nivel I)** y cuento con el **Reconocimiento al Perfil Deseable**.  
 
